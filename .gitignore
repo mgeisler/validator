@@ -20,3 +20,7 @@ stamp*
 Makefile
 *.o
 *.a
+*.lo
+*.la
+.dirstamp
+.libs
